@@ -1,0 +1,185 @@
+title;url
+My first Linux kernel built with Clang compiler!;http://www.linuxembedded.fr/2019/08/my-first-linux-kernel-built-with-clang-compiler/
+Playback vidéo avec Qt+Gstreamer sur i.MX8;http://www.linuxembedded.fr/2019/08/playback-video-avec-qtgstreamer-sur-i-mx8/
+i.MX8, which one to choose ?;http://www.linuxembedded.fr/2019/07/i-mx8-which-one-to-choose/
+Génération et configuration d’Initramfs sous Yocto;http://www.linuxembedded.fr/2019/06/generation-et-configuration-dinitramfs-sous-yocto/
+BCC integration into buildroot;http://www.linuxembedded.fr/2019/05/bcc-integration-into-buildroot/
+Analyse statique de code avec Frama-C;http://www.linuxembedded.fr/2019/04/analyse-statique-de-code-avec-frama-c/
+Les secrets du traceur eBPF;http://www.linuxembedded.fr/2019/03/les-secrets-du-traceur-ebpf/
+Les traceurs sous linux (2/2);http://www.linuxembedded.fr/2019/02/les-traceurs-sous-linux-2/
+Les traceurs sous linux (1/2);http://www.linuxembedded.fr/2018/12/les-traceurs-sous-linux-1/
+Survol des outils de debug;http://www.linuxembedded.fr/2018/11/survol-des-outils-de-debug/
+My first Linux kernel built with Clang compiler!;http://www.linuxembedded.fr/2019/08/my-first-linux-kernel-built-with-clang-compiler/
+Playback vidéo avec Qt+Gstreamer sur i.MX8;http://www.linuxembedded.fr/2019/08/playback-video-avec-qtgstreamer-sur-i-mx8/
+i.MX8, which one to choose ?;http://www.linuxembedded.fr/2019/07/i-mx8-which-one-to-choose/
+Génération et configuration d’Initramfs sous Yocto;http://www.linuxembedded.fr/2019/06/generation-et-configuration-dinitramfs-sous-yocto/
+BCC integration into buildroot;http://www.linuxembedded.fr/2019/05/bcc-integration-into-buildroot/
+Analyse statique de code avec Frama-C;http://www.linuxembedded.fr/2019/04/analyse-statique-de-code-avec-frama-c/
+Les secrets du traceur eBPF;http://www.linuxembedded.fr/2019/03/les-secrets-du-traceur-ebpf/
+Les traceurs sous linux (2/2);http://www.linuxembedded.fr/2019/02/les-traceurs-sous-linux-2/
+Les traceurs sous linux (1/2);http://www.linuxembedded.fr/2018/12/les-traceurs-sous-linux-1/
+Survol des outils de debug;http://www.linuxembedded.fr/2018/11/survol-des-outils-de-debug/
+Compiler un AOSP sans changer de distribution;http://www.linuxembedded.fr/2018/10/compiler-un-aosp-sans-changer-de-distribution/
+Crosstool-ng : human crossing;http://www.linuxembedded.fr/2018/09/crosstool-ng-human-crossing/
+OpenOCD from scratch;http://www.linuxembedded.fr/2018/08/openocd-from-scratch/
+Exploitation de la base de donnée Open Street Map pour la conception de cartes dynamiques « offline »;http://www.linuxembedded.fr/2018/08/exploitation-de-la-base-de-donnee-open-street-map-pour-la-conception-de-cartes-dynamiques-offline/
+LLVM/Clang integration into Buildroot;http://www.linuxembedded.fr/2018/07/llvmclang-integration-into-buildroot/
+La géolocalisation par ondes radiofréquences (2/2);http://www.linuxembedded.fr/2018/06/la-localisation-indoor-2/
+La localisation indoor : état de l’art technologique (1/2);http://www.linuxembedded.fr/2018/05/la-localisation-indoor-1/
+Implémentation d’un driver GPIO dans XVisor;http://www.linuxembedded.fr/2018/04/implementation-dun-driver-gpio-dans-xvisor/
+kernel, udev et systemd : la gestion du hotplug;http://www.linuxembedded.fr/2018/03/kernel-udev-et-systemd-la-gestion-du-hotplug/
+Introduction à Ansible: Gestion des layers Yocto;http://www.linuxembedded.fr/2018/02/introduction-a-ansible-gestion-des-layers-yocto/
+Linux temps réel avec Yocto;http://www.linuxembedded.fr/2018/01/linux-temps-reel-avec-yocto/
+Introduction à LoRa;http://www.linuxembedded.fr/2017/12/introduction-a-lora/
+Mise à jour Over-The-Air de systèmes embarqués;http://www.linuxembedded.fr/2017/11/mise-a-jour-over-the-air-de-systemes-embarques/
+Secure Boot et UEFI;http://www.linuxembedded.fr/2017/10/secure-boot-et-uefi/
+Initiation à Gnu Privacy Guard;http://www.linuxembedded.fr/2017/09/initiation-a-gnu-privacy-guard/
+Utilisation du Bluetooth Low Energy avec bluez;http://www.linuxembedded.fr/2017/08/utilisation-du-bluetooth-low-energy-avec-bluez/
+Le Power-Management dans Linux;http://www.linuxembedded.fr/2017/07/le-power-management-dans-linux/
+Introduction à la programmation UEFI – Réalisation d’un PONG!;http://www.linuxembedded.fr/2017/06/introduction-a-la-programmation-uefi-realisation-dun-pong/
+Drivers DMA dans Linux;http://www.linuxembedded.fr/2017/05/drivers-dma-dans-linux/
+Découverte de l’OS Zephyr;http://www.linuxembedded.fr/2017/04/decouverte-de-los-zephyr/
+Xvisor – première mise en œuvre;http://www.linuxembedded.fr/2017/03/intro_xvisor/
+Introduction à Ofono;http://www.linuxembedded.fr/2017/02/introduction-a-ofono/
+Quelques questions à se poser pour sécuriser un système embarqué;http://www.linuxembedded.fr/2017/01/quelques-questions-a-se-poser-pour-securiser-un-systeme-embarque/
+Créer un compositeur avec QtWayland en QML;http://www.linuxembedded.fr/2016/12/creer-un-compositeur-avec-qtwayland-en-qml/
+Environnement open source pour les objets connectés;http://www.linuxembedded.fr/2016/11/environnement-open-source-pour-les-objets-connectes/
+GPIO sur AOSP;http://www.linuxembedded.fr/2016/10/gpio-sur-aosp/
+Présentation de Software Update;http://www.linuxembedded.fr/2016/09/presentation-de-software-update/
+Buildroot Summer Camp 2016;http://www.linuxembedded.fr/2016/08/buildroot-summer-camp-2016/
+OpenVivoe, La solution OpenSource de la norme VIVOE;http://www.linuxembedded.fr/2016/07/openvivoe-la-solution-opensource-de-la-norme-vivoe/
+La mise au point des recettes Yocto;http://www.linuxembedded.fr/2016/05/la-mise-au-point-des-recettes-yocto/
+Protocoles de communication, frameworks et systèmes d’exploitation pour les objets connectés;http://www.linuxembedded.fr/2016/03/protocoles-de-communication-frameworks-et-systemes-dexploitation-pour-les-objets-connectes/
+Créer un slider circulaire en QML;http://www.linuxembedded.fr/2016/02/creer-un-slider-circulaire-en-qml/
+Yocto : comprendre BitBake;http://www.linuxembedded.fr/2015/12/yocto-comprendre-bitbake/
+Le choix des ARMTM;http://www.linuxembedded.fr/2015/12/le-choix-des-arm/
+Introduction aux FPGA;http://www.linuxembedded.fr/2015/10/introduction-aux-fpga/
+Premiere application avec RT-DRUID;http://www.linuxembedded.fr/2015/08/premiere-application-avec-rt-druid/
+Comprendre dbus;http://www.linuxembedded.fr/2015/07/comprendre-dbus/
+Une introduction à ZeroMQ;http://www.linuxembedded.fr/2015/06/une-introduction-a-zeromq/
+Sortie de la version 2015.05 De buildroot;http://www.linuxembedded.fr/2015/06/sortie-de-la-version-2015-05-de-buildroot/
+Une introduction à UDEV;http://www.linuxembedded.fr/2015/05/une-introduction-a-udev/
+Renforcez les capacités de Gstreamer avec vos propres plugins;http://www.linuxembedded.fr/2015/04/renforcez-les-capacites-de-gstreamer-avec-vos-propres-plugins/
+Ajouter une mémoire flash sur un bus SPI;http://www.linuxembedded.fr/2015/03/mini-howto-ajouter-une-memoire-flash-sur-un-bus-spi/
+Sortie de la version 2015.02;http://www.linuxembedded.fr/2015/03/sortie-de-la-version-2015-02/
+Introduction à Boost Test Library: Unit Test Framework;http://www.linuxembedded.fr/2015/02/introduction-a-boost-test-library-unit-test-framework/
+Nouvelles EFL 1.13;http://www.linuxembedded.fr/2015/02/nouvelles-efl-1-13/
+Sortie du noyau 3.19;http://www.linuxembedded.fr/2015/02/sortie-du-noyau-3-19/
+Sortie de la nouvelle Raspberry Pi 2;http://www.linuxembedded.fr/2015/02/sortie-de-la-nouvelle-raspberry-pi-2/
+Introduction à Haka : Utilisation de Haka (1);http://www.linuxembedded.fr/2015/01/introduction-a-haka-utilisation-de-haka-1/
+Investigation Android Temps Réel;http://www.linuxembedded.fr/2014/12/investigation-android-temps-reel/
+Sortie de la version 2.2 de Qemu;http://www.linuxembedded.fr/2014/12/sortie-de-la-version-2-2-de-qemu/
+Qt 5.4 est arrivé;http://www.linuxembedded.fr/2014/12/qt-5-4-est-arrive/
+Sortie du noyau linux 3.18;http://www.linuxembedded.fr/2014/12/sortie-du-noyau-linux-3-18/
+Sortie de la version 2014.11 de buildroot;http://www.linuxembedded.fr/2014/12/sortie-de-la-version-2014-11-de-buildroot/
+Test de Qt5 sur Raspberry pi;http://www.linuxembedded.fr/2014/11/test-de-qt5-sur-raspberry-pi/
+Reportage: participation au Qt Developer Days 2014;http://www.linuxembedded.fr/2014/10/reportage-participation-au-qt-developer-days-2014/
+Meetup Linux Embarqué et Android à Toulouse;http://www.linuxembedded.fr/2014/10/meetup-linux-embarque-et-android-a-toulouse/
+Sigrok/Pulseview l’analyseur logique open source;http://www.linuxembedded.fr/2014/10/sigrokpulseview-lanalyseur-logique-open-source/
+Maîtriser les services GNU/Linux à l’aide de systemd;http://www.linuxembedded.fr/2014/09/maitriser-les-services-gnulinux-a-laide-de-systemd/
+Introduction à Google C++ Testing Framework;http://www.linuxembedded.fr/2014/09/introduction-a-google-c-testing-framework/
+Sortie de la nouvelle Raspberry Pi B+;http://www.linuxembedded.fr/2014/08/sortie-de-la-nouvelle-raspberry-pi-b/
+Électronique simple (pour GPIO);http://www.linuxembedded.fr/2014/07/electronique-simple-pour-gpio/
+Customisation d’AOSP;http://www.linuxembedded.fr/2014/06/customisation-daosp/
+Sortie de la version 2014.05 de buildroot;http://www.linuxembedded.fr/2014/06/sortie-de-la-version-2014-05-de-buildroot/
+Introduction à la HAL Android;http://www.linuxembedded.fr/2014/05/introduction-a-la-hal-android/
+Modification du noyau Linux AOSP;http://www.linuxembedded.fr/2014/05/modification-du-noyau-linux-aosp/
+Compilation de code (legacy) C/C++ pour Android;http://www.linuxembedded.fr/2014/04/compilation-de-code-legacy-cc-pour-android/
+Utiliser ADB;http://www.linuxembedded.fr/2014/03/utiliser-adb/
+Raspaudio : comment diffuser le son de votre PC dans votre salon;http://www.linuxembedded.fr/2014/03/raspaudio-comment-diffuser-le-son-de-votre-pc-dans-votre-salon/
+Utilisation de JNI sous Android;http://www.linuxembedded.fr/2014/03/utilisation-de-jni-sous-android-5/
+Lancement du Tremplin linuxembedded.fr : à vos projets !;http://www.linuxembedded.fr/2014/03/lancement-du-tremplin-linuxembedded-fr-a-vos-projets/
+Utilisation du DMA dans un driver RTDM;http://www.linuxembedded.fr/2014/03/utilisation-du-dma-dans-un-driver-rtdm/
+Sortie de la version 2014.02 de Buildroot;http://www.linuxembedded.fr/2014/02/sortie-de-la-version-2014-02-de-buildroot/
+Introduction à AOSP;http://www.linuxembedded.fr/2014/02/introduction-a-aosp-2/
+Sortie du kernel 3.14;http://www.linuxembedded.fr/2014/01/sortie-du-kernel-3-14/
+Git et les indexations partielles;http://www.linuxembedded.fr/2014/01/git-et-les-indexations-partielles/
+Sortie du kernel 3.13;http://www.linuxembedded.fr/2014/01/sortie-du-kernel-3-13/
+Une Introduction au NFC;http://www.linuxembedded.fr/2013/12/une-introduction-au-nfc/
+Sortie de la version 1.7 de Qemu;http://www.linuxembedded.fr/2013/12/sortie-de-la-version-1-7-de-qemu/
+Sortie de la version 1.8 des EFL;http://www.linuxembedded.fr/2013/12/sortie-de-la-version-1-8-des-efl/
+Sortie de Qt 5.2;http://www.linuxembedded.fr/2013/12/sortieqt52/
+Prise en main de Fabric;http://www.linuxembedded.fr/2013/12/prise-en-main-de-fabric/
+Sortie de de la version 2013.11 de Buildroot;http://www.linuxembedded.fr/2013/12/sortie-de-de-la-version-2013-11-de-buildroot/
+OpenSL-ES sous Android;http://www.linuxembedded.fr/2013/11/opensl-es-sous-android/
+Microcontrôleur et environnement critique, petit tour d’horizon;http://www.linuxembedded.fr/2013/11/microcontroleur-et-environnement-critique-petit-tour-dhorizon/
+Android KitKat 4.4;http://www.linuxembedded.fr/2013/11/android-kitkat-4-4/
+News : Sortie du kernel 3.12;http://www.linuxembedded.fr/2013/11/news-sortie-du-kernel-3-12/
+Mini HowTo: git merge et fichiers binaires;http://www.linuxembedded.fr/2013/11/mini-howto-git-merge-et-fichiers-binaires/
+Comparatifs Qt / EFL : Déclaration d’une IHM en 5min;http://www.linuxembedded.fr/2013/10/comparatifs-qt-efl-declaration-dune-ihm-en-5min/
+La Raspberry, Android et l’USB (3/3) : Périphériques spécifiques;http://www.linuxembedded.fr/2013/09/la-raspberry-android-et-l%e2%80%99usb-33-peripheriques-specifiques/
+La Raspberry, Android et l’USB (2/3) : rediriger le clavier;http://www.linuxembedded.fr/2013/09/la-raspberry-android-et-lusb-23-rediriger-le-clavier/
+news : sortie du kernel 3.11;http://www.linuxembedded.fr/2013/09/news-sortie-du-kernel-3-11/
+La Raspberry, Android et l’USB (1/3) : rediriger les flux Audio;http://www.linuxembedded.fr/2013/08/la-raspberry-android-et-lusb-13-rediriger-les-flux-audio/
+Sortie de la version 1.6 de Qemu;http://www.linuxembedded.fr/2013/08/sortie-de-la-version-1-6-de-qemu/
+Perte de batterie sans perte de données;http://www.linuxembedded.fr/2013/08/perte-de-batterie-sans-perte-de-donnees/
+Gestion des mises à jour de Linux sous U-boot;http://www.linuxembedded.fr/2013/07/gestion-des-mises-a-jour-de-linux-sous-u-boot/
+Configuration réseau de LXC;http://www.linuxembedded.fr/2013/07/configuration-reseau-de-lxc/
+RTEMS sur Raspberry Pi;http://www.linuxembedded.fr/2013/07/rtems-sur-raspberry-pi/
+Un mini serveur web avec la libevent;http://www.linuxembedded.fr/2013/06/un-mini-serveur-web-avec-la-libevent/
+A suivre : le projet dpdk;http://www.linuxembedded.fr/2013/06/a-suivre-projet-dpdk-org/
+Sortie du nouvel Open Silicium #7;http://www.linuxembedded.fr/2013/06/sortie-du-nouvel-open-silicium-7/
+Crée un CD d’installation d’une debian spécialisée;http://www.linuxembedded.fr/2013/06/cree-un-cd-dinstallation-dune-debian-specialisee/
+Sortie de la version 2013.05 de buildroot;http://www.linuxembedded.fr/2013/06/sortie-de-la-version-2013-05-de-buildroot/
+Sortie de la version 1.5.0 de QEmu;http://www.linuxembedded.fr/2013/05/sortie-de-la-version-1-5-0-de-qemu/
+Partager son dépôt git rapidement sur le réseau;http://www.linuxembedded.fr/2013/05/partager-son-depot-git-rapidement-sur-le-reseau/
+news : sortie du kernel 3.9 et de GDB 7.6;http://www.linuxembedded.fr/2013/04/news-sortie-du-kernel-3-9-et-de-gdb-7-6/
+Réorganiser ses commits avant un merge dans git;http://www.linuxembedded.fr/2013/04/reorganiser-ses-commits-avant-un-merge-dans-git/
+Configuration SSH et machines virtuelles;http://www.linuxembedded.fr/2013/04/configuration-ssh-et-machines-virtuelles/
+Prise en main de Jack;http://www.linuxembedded.fr/2013/03/prise-en-main-de-jack/
+Toujours plus de Linux dans l’embarqué !;http://www.linuxembedded.fr/2013/03/toujours-plus-de-linux-dans-lembarque/
+Retour d’Open Silicium :);http://www.linuxembedded.fr/2013/03/retour-dopen-silicium/
+Votre première contribution à Buildroot;http://www.linuxembedded.fr/2013/03/votre-premiere-contribution-a-buildroot/
+Sortie de buildroot 2013.02;http://www.linuxembedded.fr/2013/03/sortie-de-buildroot-2013-02/
+How-to: Android Mass Storage USB Gadget;http://www.linuxembedded.fr/2013/02/how-to-android-mass-storage-usb-gadget/
+Sortie du noyau 3.8;http://www.linuxembedded.fr/2013/02/sortie-du-noyau-3-8/
+Gérer les fichiers OpenOffice avec git;http://www.linuxembedded.fr/2013/02/gerer-les-fichiers-openoffice-avec-git/
+Tutorial : un système Linux embarqué opérationnel avec Buildroot;http://www.linuxembedded.fr/2013/02/tutorial-un-systeme-linux-embarque-operationnel-avec-buildroot/
+Mesure du temps d'(U-)Boot :-);http://www.linuxembedded.fr/2013/02/mesure-du-temps-du-boot/
+Utiliser Kconfig dans ses projets;http://www.linuxembedded.fr/2013/01/utiliser-kconfig-dans-ses-projets/
+Journée EFL et Enlightenment le 26 janvier prochain;http://www.linuxembedded.fr/2013/01/journee-efl-et-enlightenment-le-26-janvier-prochain-2/
+Mini howto : monter un disque dur virtuel VDI sur Linux;http://www.linuxembedded.fr/2013/01/mini-howto-monter-un-disque-dur-virtuel-vdi-sur-linux/
+PREEMPT-RT sur Raspberry Pi;http://www.linuxembedded.fr/2013/01/preempt-rt-sur-raspberry-pi/
+La Ministre fait une fleur au logiciel libre;http://www.linuxembedded.fr/2013/01/la-ministre-fait-une-fleur-au-logiciel-libre/
+Quelques raccourcis pratiques pour Vim;http://www.linuxembedded.fr/2013/01/quelques-raccourcis-pratiques-pour-vim/
+Concours 2012 : Les résultats de la phase 1;http://www.linuxembedded.fr/2012/09/concours-2012-les-resultats-de-la-phase-1/
+Concours : Lancement du concours 2012;http://www.linuxembedded.fr/2012/04/concours-lancement-du-concours-2012/
+Visualiser l’ordonnancement avec kernelshark;http://www.linuxembedded.fr/2012/03/visualiser-lordonnancement-avec-kernelshark/
+Tâche périodique dans un processus multithread;http://www.linuxembedded.fr/2012/03/tache-periodique-dans-un-processus-multithread/
+Concours : Les résultats;http://www.linuxembedded.fr/2012/01/concours-les-resultats/
+EWili, deuxième édition;http://www.linuxembedded.fr/2012/01/ewili-deuxieme-edition/
+Concours : Invitation à la remise des prix;http://www.linuxembedded.fr/2012/01/concours-invitation-a-la-remise-des-prix/
+Comparatifs Qt / EFL : Présentation des deux bibliothèques;http://www.linuxembedded.fr/2011/12/comparatifs-qt-efl/
+Un pas en avant pour ARM;http://www.linuxembedded.fr/2011/10/un-pas-en-avant-pour-arm/
+Concours : Résultats de la phase 1;http://www.linuxembedded.fr/2011/10/concours-resultats-de-la-phase-1/
+Conférence sur les IHM embarquées;http://www.linuxembedded.fr/2011/10/conference-sur-les-ihm-embarquees/
+Ajouter un package dans OpenEmbedded en 5 minutes;http://www.linuxembedded.fr/2011/08/ajouter-un-package-dans-openembedded-en-5-minutes/
+Lancement du concours;http://www.linuxembedded.fr/2011/08/lancement-du-concours/
+Utiliser tc pour optimiser l’upload;http://www.linuxembedded.fr/2011/06/utiliser-tc-pour-optimiser-lupload/
+Quoi de neuf pour Qt 5 ?;http://www.linuxembedded.fr/2011/05/quoi-de-neuf-pour-qt-5/
+Ajouter un package dans Buildroot en 5 minutes;http://www.linuxembedded.fr/2011/03/ajouter-un-package-dans-buildroot-en-5-minutes/
+Interroger son compilateur;http://www.linuxembedded.fr/2011/03/interroger-son-compilateur/
+Introduction à Ftrace;http://www.linuxembedded.fr/2011/03/introduction-a-ftrace/
+Bien utiliser les Cgroups;http://www.linuxembedded.fr/2011/03/bien-utiliser-les-cgroups/
+Linux 2.6.37 pour l’embarqué;http://www.linuxembedded.fr/2011/03/linux-2-6-37-pour-l-embarque/
+Utilisation de printascii pour la mise au point du noyau Linux/ARM;http://www.linuxembedded.fr/2011/02/utilisation-de-printascii-pour-la-mise-au-point-du-noyau-linuxarm/
+Analyser le démarrage d’un système GNU/Linux avec Bootchart;http://www.linuxembedded.fr/2011/01/analyser-le-demarrage-dun-systeme-gnulinux-avec-bootchart/
+Gérer un pilote USB avec UDEV;http://www.linuxembedded.fr/2011/01/gerer-un-pilote-usb-avec-udev/
+L’encre électronique accèlere;http://www.linuxembedded.fr/2011/01/lencre-electronique-accelere/
+Accélérez votre système avec prelink;http://www.linuxembedded.fr/2011/01/accelerez-votre-systeme-avec-prelink/
+Le point sur Meego;http://www.linuxembedded.fr/2011/01/le-point-sur-meego/
+Introduction à MeeGo IVI;http://www.linuxembedded.fr/2010/12/introduction-a-meego-ivi/
+Les EFL bientôt en version 1.0;http://www.linuxembedded.fr/2010/12/les-efl-bientot-en-version-1-0/
+ARM + FPGA = Armadeus;http://www.linuxembedded.fr/2010/11/arm-fpga-armadeus/
+L’ATOM peut-il percer dans le monde de l’embarqué ?;http://www.linuxembedded.fr/2010/11/latom-peut-il-percer-dans-le-monde-de-lembarque/
+Procédés de vision dans les consoles de jeux;http://www.linuxembedded.fr/2010/11/procedes-de-vision-dans-les-consoles-de-jeux/
+Intel démarre (enfin) OpenCL;http://www.linuxembedded.fr/2010/11/intel-demarre-enfin-opencl/
+Le Tegra2 de NVidia;http://www.linuxembedded.fr/2010/11/le-tegra2-de-nvidia/
+Encre électronique en couleurs;http://www.linuxembedded.fr/2010/11/encre-electronique-en-couleurs/
+OpenCL pointe son nez dans les GPU ARM;http://www.linuxembedded.fr/2010/11/opencl-pointe-son-nez-dans-les-gpu-arm/
+L’arrivée des Flattened Device Tree;http://www.linuxembedded.fr/2010/11/larrivee-des-flattened-device-tree/
+le Projet SiT de Zodiac Aerospace décolle;http://www.linuxembedded.fr/2010/11/le-projet-sit-de-zodiac-aerospace-decolle/
+Tester la stabilité de Linux sur 10 ans en 10 jours;http://www.linuxembedded.fr/2010/11/tester-la-stabilite-de-linux-sur-10-ans-en-10-jours/
+Qemu se présente;http://www.linuxembedded.fr/2010/10/qemu-se-presente/
+Linux 2.6.36 pour l’embarqué;http://www.linuxembedded.fr/2010/10/linux-2-6-36-pour-l-embarque/
+La beagleboard change !;http://www.linuxembedded.fr/2010/09/la-beagleboard-change/
